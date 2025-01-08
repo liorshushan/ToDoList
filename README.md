@@ -17,5 +17,34 @@ Users can **add tasks, mark them as completed, remove tasks, and list all tasks*
 - **CLI-based interface** (Command Line Interaction)
 - **Simple Data Persistence** (Tasks stored in a `.txt` file)
 
-## 📥 How to Run
-1. **Compile the code**:
+## 💡 Example Interaction
+  1.	Add Task
+	2.	Mark Task as Completed
+	3.	Remove Task
+	4.	View All Tasks
+	5.	Exit
+
+Enter your choice: 1
+Enter task description: Complete Java project
+Task added successfully!
+
+Enter your choice: 4
+[1] Complete Java project - (Pending)
+
+## 📌 Project Structure
+📦 JavaToDoListProject
+┣ 📂 bin        # Compiled Java files
+┣ 📂 src        # Source code (Java classes)
+┃ ┣ 📜 Task.java
+┃ ┣ 📜 ToDoList.java
+┃ ┣ 📜 Main.java
+┣ 📜 README.md  # Project documentation
+
+## 📚 Learning Outcomes
+- **Understanding Java OOP principles** (Encapsulation, Abstraction)
+- **Working with files** to store persistent data
+- **Building a simple CRUD-based CLI application**
+- **Practicing Java debugging and error handling**
+
+## 👤 Author
+**Lior Shushan**
