@@ -24,12 +24,12 @@ Users can **add tasks, mark them as completed, remove tasks, and list all tasks*
  	4. View All Tasks
   	5. Exit
 
-Enter your choice: 1
-Enter task description: Complete Java project
-Task added successfully!
+	Enter your choice: 1
+	Enter task description: Complete Java project
+	Task added successfully!
 
-Enter your choice: 4
-[1] Complete Java project - (Pending)
+	Enter your choice: 4
+	[1] Complete Java project - (Pending)
 
 ## 📚 Learning Outcomes
 - **Understanding Java OOP principles** (Encapsulation, Abstraction)
