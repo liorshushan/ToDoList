@@ -19,9 +19,6 @@ Users can **add tasks, mark them as completed, remove tasks, and list all tasks*
 
 ## 📥 How to Run
 ```sh
-# Move into the project folder
-cd JavaToDoListProject
-
 # Compile the Java files
 javac -d bin src/*.java
 
