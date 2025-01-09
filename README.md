@@ -17,6 +17,21 @@ Users can **add tasks, mark them as completed, remove tasks, and list all tasks*
 - **CLI-based interface** (Command Line Interaction)
 - **Simple Data Persistence** (Tasks stored in a `.txt` file)
 
+## 📥 How to Run
+```sh
+# Clone the repository
+git clone [repo-link]
+
+# Move into the project folder
+cd JavaToDoList
+
+# Compile the Java files
+javac -d bin src/*.java
+
+# Run the application
+java -cp bin Main
+```
+
 ## 💡 Example Interaction
 	1. Add Task
 	2. Mark Task as Completed
